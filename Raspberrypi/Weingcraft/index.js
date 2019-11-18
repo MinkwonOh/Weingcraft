@@ -222,10 +222,10 @@ function streamingMicRecognize(encoding, sampleRateHertz, languageCode) {
     .on('error', console.error)
     .on('data', data => {
       var clientStreamVoice = `${data.results[0].alternatives[0].transcript}`.trim()
-      if(clientStreamVoice == '켜 줘' || clientStreamVoice == '불 켜 줘'){
+      if(clientStreamVoice == '내려줘'){
         serialport.write('1')
-      }else if(clientStreamVoice == '꺼 줘' || clientStreamVoice == '불 꺼 줘'){
-        serialport.write('0')
+      }else if(clientStreamVoice == '올려줘'){
+        serialport.write('5')
       }
       fs.writeFile('./read-file.txt',clientStreamVoice,function(err){
                       if(err){
