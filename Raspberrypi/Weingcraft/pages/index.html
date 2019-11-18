@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style type="text/css">
+			*{
+                margin: 0px;
+                padding: 0px;
+            }
+            html, body{
+                width: 100%;
+                height: 100%;
+                background-color: rgb(0, 0, 0);
+                overflow: hidden;
+            }
+            h1{
+                color: white;
+            }
+
+            .container{
+                width: 100%;
+                height: 100%;
+            }
+
+			.top{
+                display: flex;
+                flex-wrap: wrap;
+                height: 50%;
+			}
+			
+			.top .first{
+                flex: 3;
+			}
+			.top .second{
+                flex: 4;
+			}
+			.top .third{
+                flex: 3;
+                width: 100%;
+                height: 100%;
+			}
+			
+			.bot{
+                display: flex;
+                height: 50%;
+			}
+			.bot .first{
+                flex: 3;
+			}
+			.bot .second{
+                flex: 4;
+			}
+			.bot .third{
+                flex: 3;
+                width: 100%;
+                height: 100%;
+			}
+
+        </style>
+        <script src="https://code.jquery.com/jquery-2.2.1.js"></script>
+       
+		<meta charset="UTF-8">
+		<title>main page</title>
+	</head>
+	<body>
+		<div class = 'container'>
+			<div class='top'>
+				<div class='first'>
+                    <h1>top first</h1>
+				</div>
+				<div class='second'>
+                    <h1>top second</h1>
+				</div>
+				<div class='third'>             
+                    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23000000&amp;ctz=Asia%2FSeoul&amp;src=b21rMDkyOEBnbWFpbC5jb20&amp;src=a28uc291dGhfa29yZWEjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%237986CB&amp;color=%23711616&amp;showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;showDate=0" style="border-width:0" width=100% height=100% frameborder="0" scrolling="no"></iframe>
+                    
+				</div>
+			</div>
+			<div class='bot'>
+				<div class='first'>
+                        <h1>bot first</h1>
+				</div>
+				<div class='second'>
+                        <h1>bot second</h1>
+				</div>
+				<div class='third'>
+                        <iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:100%;height:100%;"src="https://www.clocklink.com/html5embed.php?clock=048&timezone=GMT0900&color=blue&size=580&Title=&Message=&Target=&From=2019,1,1,0,0,0&Color=blue"></iframe>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

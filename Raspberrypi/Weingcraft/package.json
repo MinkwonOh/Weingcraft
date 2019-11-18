@@ -1,0 +1,29 @@
+{
+  "name": "weingcraft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "googleapis/nodejs-speech",
+  "scripts": {
+    "start": "node index.js listen",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bleno": "^0.5.0",
+    "ejs": "^2.4.1",
+    "express": "^4.17.1",
+    "pi-voice-command-google": "^2.1.0",
+    "serialport": "^7.1.5",
+    "@google-cloud/speech": "^3.3.0",
+    "@google-cloud/storage": "^3.0.0",
+    "node-record-lpcm16": "^1.0.1",
+    "sox": "^0.1.0",
+    "yargs": "^14.2.0"
+  },
+  "devDependencies": {
+    "open-browser-webpack-plugin": "0.0.5",
+    "window": "^4.2.6"
+  }
+}

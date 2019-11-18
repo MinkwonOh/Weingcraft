@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "weingcraft-1570496089733",
+  "private_key_id": "01ed1fd45fb64d2e3e49f55e085bb237fe3aeb99",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOVqc1kGaeWKtQ\nLEdXmfHIRxjq1sCvRIzzDNGNyNlPlV6Xl1dKDm5RC8Rw/Cj/fCIZGWBOJuCEEBUm\nTluH+GJP6Y3soToZNF3BFFG3BHH6lUi1Kx2rIj2EMPwMsDc5qhKdfqFpqBZ9OHzn\no56j3QKwAPktIq+BWeJEo5ms4k349hbD3BT5sa8dBtTAhBX3qdE5NqNrMPlauCRS\nExSxnCThgSmCLRlZY3Uz5QLgtusWKEPB4h2QISTs85bTAW5yUg147tGeUAtt9p7M\n8cY3ESrXkTIxwetDPdGR59gczNLX+wB6msD/PWLsYI5CiQ6nrRaDhDAY6EpXpn7d\nBPhg3ZwBAgMBAAECggEAEMIfbv2FJB+x/D84ZSBC75/8oVgjSqjf5L6aB3C0W58X\nUWsQgxqEca8pu35zavqfP1gdBwPn0LoIqbWMABFXlMN0jC81C4aCBdQ7Zcil5DL7\nNoGjtXpAskuTMQmf1p5eSC3YeL8W4oEzvdF/aTIiTX6qvjR2uiP9eVMrQEwaBpn6\nliPfQuS1HsSfQdctw3+iGEKpZFfJgeNqRjGh3RWRM1GxyK80Rh+WMzMJKVKEad0v\nwIDO8NrI4tjp9Uk/S2lwtTsWIrp0QCOOSyja9KBDxGvBi7aP1n15gcyOKqqy5d9s\nsugCJ4nsjHvsHpdOVLRboziTW1L3oDzuVRFaAJUo0QKBgQD79I6dN7BsqKr51Fs3\nqMWLS791YycTjIVZP0IPbxCj+SUrnkUroRu6myrgp3RW7gyh6qCJLFCvXZ3jhaf/\n8tbxxcy4MeL6JyFHyCg2c5syRaHkhK0qv3lezPnOwa6ZhTwx6BrRGDCSb1feFkb+\n435VdmnB/keGSIH9TpG26WEqiQKBgQDRpqC83seOck2X+bavT3Y22tQIYmzoynyc\np/oacpVlw2QaWDOJYINBaAf4iCDEsNB9ULTOlu3MQfJhcjRh2m4ayis1Mg7TU0Z8\n2PDyOlFvg19tcdKClt7K8Ge1J3hT3lOrv01+fcDbAG6cBS8gtRuPQa9zOA8QKQoM\n2lkWpBMnuQKBgQDBoncETutQ5uPX8yNTiGqhnkp7bgN3G7TUHTCo6eOxEWZGunFQ\nkZXc+Smf1DIuKO8edVKBecRcsicI2AyAQWJ+F1U5bmWReQczwpldF8X7gdZk6K6p\nPtSJTiDijKmiJOpZNJd/gQa7U8UE0rwnYjESf1nSFJllk04LnhmQqJXbeQKBgQCo\ndS9rE8ddmlLm7uvv6fWfFi6RniTM2QdQCVlZrwCEiIAC+yROGpLdF25wMVHDOiAM\n0bC232esXMEZs96LUixuskwNrm9jNuLIprjUqi+NXw5qrq7r57aVcp6iXVi+a0Lo\nGgt2vC0ezDYUf8XijiPa9Hi6KC1SWueMdFZpbuVFYQKBgHNJpMYx5n+mo5h6QXl5\n+nN8OkocVzJs7d47xSCg6PEDt97N4Ly3CZAQq76j+iDu86B/pQU8Wfb/Mtg0lVrq\n6+JhmHrd8Sd/xEFqgcPG5B6DvNSQYdSREB+fonbygtlOUlkYQCb13QJSRLVuRDEL\nZ0nHa6yWp54uSEku5HKFwpsj\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-exel6aeqodym@weingcraft-1570496089733.iam.gserviceaccount.com",
+  "client_id": "102051654766727256661",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-exel6aeqodym%40weingcraft-1570496089733.iam.gserviceaccount.com"
+}

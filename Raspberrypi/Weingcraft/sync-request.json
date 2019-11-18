@@ -1,0 +1,12 @@
+{
+  "config": {
+      "encoding":"FLAC",
+      "sampleRateHertz": 16000,
+      "languageCode": "ko-KR",
+      "enableWordTimeOffsets": false
+  },
+  "audio": {
+      "uri":"gs://weing_bucket/upRequest.flac"
+  }
+}
+  

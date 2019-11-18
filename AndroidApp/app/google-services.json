@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048648465233",
+    "firebase_url": "https://weingcraft-a99d1.firebaseio.com",
+    "project_id": "weingcraft-a99d1",
+    "storage_bucket": "weingcraft-a99d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048648465233:android:1bb97a29fb6fb04a",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.weingcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048648465233-u2ahhmgrhl56225p67rq5u9cv9l4mmg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ-le_hcuZ3ywmPlynqL1lYDI2YO0Se5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048648465233-u2ahhmgrhl56225p67rq5u9cv9l4mmg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
